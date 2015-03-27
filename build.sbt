@@ -2,7 +2,7 @@ name := "es-repro"
 
 version := "1.0"
 
-scalaVersion := "2.10.1"
+scalaVersion := "2.11.6"
 
 libraryDependencies ++= Seq(
 //  "org.elasticsearch" % "elasticsearch" % "1.0.0.Beta2",
